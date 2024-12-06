@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/bin
+/data
+/include
+/lib
+/share
+pyenv.cfg
+*.csv
